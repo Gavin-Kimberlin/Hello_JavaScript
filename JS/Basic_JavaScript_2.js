@@ -1,6 +1,6 @@
 function getElement(i) {
     var x = 'What';
-    x += ' am I doing?'
+    x += ' am I doing?';
     document.getElementById('p').innerHTML = x;
 }
 
